@@ -1,1 +1,1 @@
-# DBMS
+The project aims to design and implement a relational database that stores customer and transaction data, execute SQL-based segmentation queries, and visualize the results through an interactive web interface. By analyzing key parameters such as purchase frequency, transaction value, and activity level, the system classifies customers into meaningful categories such as high-value, regular, and inactive. This enables businesses to better understand customer behavior and develop targeted marketing strategies.
